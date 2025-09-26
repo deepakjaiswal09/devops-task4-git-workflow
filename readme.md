@@ -1,5 +1,8 @@
 # DevOps Internship – Task 4  
-**Project:** Version-Controlled DevOps Project with Git  
+
+## Overview
+This task focused on learning practical **Git and GitHub workflows** as part of the DevOps internship.  
+I created a GitHub repository named **devops-task4-git-workflow**, added a simple Python application, and followed standard branching and pull-request practices.
 
 ---
 
