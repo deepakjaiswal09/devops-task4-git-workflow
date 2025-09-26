@@ -69,9 +69,10 @@ The goal of this task is to manage a DevOps project using **Git best practices**
 
 📸 *Screenshot 5: Pull Request on GitHub*  
 
-#### 1.
+#### 1.From fetaure/login to main
 <img width="1920" height="1080" alt="Screenshot (1028)" src="https://github.com/user-attachments/assets/e216cd19-7d2d-405c-8fd8-f1656fb24413" />
-#### 2.
+
+#### 2.From main to feature/login
 
 <img width="1920" height="1080" alt="Screenshot (1030)" src="https://github.com/user-attachments/assets/3231c527-f4df-4ce2-a3ab-f9c03132233d" />
 
