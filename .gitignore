@@ -1,0 +1,6 @@
+# Logs
+*.log
+
+# Dependency folders
+node_modules/
+__pycache__/
